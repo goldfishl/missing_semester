@@ -1,0 +1,1 @@
+the exercises of [The Missing Semester](https://missing.csail.mit.edu/).
